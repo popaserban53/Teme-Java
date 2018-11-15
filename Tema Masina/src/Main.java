@@ -6,7 +6,7 @@ public class Main {
         car.setGears(1);
         car.Drive(1);
         car.setGears(2);
-        car.Drive(2);
+        car.Drive(1);
         car.setGears(3);
         car.Drive(3);
         car.setGears(4);
